@@ -32,3 +32,7 @@ deploy:
     tags: false
     repo: TwrpBuilder/android_device_lenovo_lenovo_a806
     branch: master
+
+branches:
+  except:
+    - /^(?i:untagged)-.*$/
