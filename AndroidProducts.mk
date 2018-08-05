@@ -14,6 +14,6 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/lenovo/lenovo_a806/
+LOCAL_PATH := device/lenovo/a806/
 
-PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_lenovo_a806.mk
+PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_a806.mk

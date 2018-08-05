@@ -14,9 +14,9 @@
 # limitations under the License.
 #
 
-ifneq ($(filter lenovo_a806,$(TARGET_DEVICE)),)
+ifneq ($(filter a806,$(TARGET_DEVICE)),)
 
-LOCAL_PATH := device/lenovo/lenovo_a806/
+LOCAL_PATH := device/lenovo/a806/
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
 

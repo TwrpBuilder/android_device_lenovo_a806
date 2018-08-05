@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/lenovo/lenovo_a806
+LOCAL_PATH := device/lenovo/a806
 
 TARGET_BOARD_PLATFORM := MTK
 TARGET_BOOTLOADER_BOARD_NAME := lenovo_a806
